@@ -13,5 +13,8 @@ hungry = true
 name = "Not Andy Stilmock"
 school = "Nebraska Wesleyan University"
 location = "Lincoln Nebraska"
+puts [name]
+puts [location]
+puts [bored]
 
 
