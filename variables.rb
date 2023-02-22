@@ -7,4 +7,6 @@ roommates = 1
 tuition = 25000.00
 remaining_days = 2.5
 bank_balance = 3.50
-
+bored = false
+excited = true
+hungry = true
