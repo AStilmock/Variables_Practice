@@ -10,5 +10,8 @@ bank_balance = 3.50
 bored = false
 excited = true
 hungry = true
+name = "Not Andy Stilmock"
+school = "Nebraska Wesleyan University"
+location = "Lincoln Nebraska"
 
 
