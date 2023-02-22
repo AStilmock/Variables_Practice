@@ -4,3 +4,7 @@ location = Lakewood Colorado
 age = 33
 family_members = 6
 roommates = 1
+tuition = 25000.00
+remaining_days = 2.5
+bank_balance = 3.50
+
